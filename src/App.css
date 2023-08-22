@@ -1,0 +1,36 @@
+/* div {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 10vh;
+  margin-top: 9%;
+  
+} */
+
+.container {
+  
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 10vh;
+    margin-top: 15%;
+    
+  
+}
+
+
+.crypto-card {
+ background:#008080;
+
+}
+
+
+
+.maintain-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 40px;
+}
